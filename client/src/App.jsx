@@ -23,7 +23,7 @@ import MockInterViewInfo from './ServicesPage/MockInterviewInfo/MockInterViewInf
 import AfterBuyingService from './pages/AfterBuyingService'
 import PrivacyPolicy from './Legal/PrivacyPolicy'
 import Disclaimer from './Legal/Disclaimer'
-import SendOtp from './pages/sendOtp'
+import SendOtp from './pages/SendOtp'
 import PasswordReset from './pages/PasswordReset'
 import TermsAndConditions from './Legal/TermsandCondition'
 import BlogPage from './pages/BlogPage'
